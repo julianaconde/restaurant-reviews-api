@@ -32,6 +32,7 @@ Essa API foi desenvolvida como desafio proposto para a primeira turma do OneBitC
 <br/><br/>
 
 ## ⏳ Inicialização
+ABCSFD
 
 Esse projeto foi desenvolvido em ambiente Linux, utilizando o Ubuntu 22 e as tecnologias citadas anteriormente. Caso você utilize outro sistema operacional, a configuração inicial do projeto pode ser um pouco diferente, por isso sugerimos que você acesse os links indicados abaixo:
 
